@@ -9,8 +9,8 @@ I learned how to implement accessibility standards into a website and how to com
 
 ## Usage
 
-./assets/images/C0B8DA4A-0AA6-4FEB-BE71-0689CAC5B465_1_105_c.jpeg
+assets/images/C0B8DA4A-0AA6-4FEB-BE71-0689CAC5B465_1_105_c.jpeg
 
-./assets/images/CD6C7D87-9CB9-4E5C-9F2F-46825A1334F2_1_105_c.jpeg
+assets/images/CD6C7D87-9CB9-4E5C-9F2F-46825A1334F2_1_105_c.jpeg
 
-./assets/images/AB8CB40F-EB8E-46CC-8CAC-A11293E85DF1_1_105_c.jpeg
+assets/images/AB8CB40F-EB8E-46CC-8CAC-A11293E85DF1_1_105_c.jpeg
